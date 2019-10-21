@@ -17,6 +17,8 @@ public class DBUtil {
 		private static String USERNAME=null;
 		private static String PASSWORD=null;
 		
+		
+		///
 		protected Connection cn=null;
 		protected PreparedStatement pst=null;
 		protected ResultSet rs=null;
